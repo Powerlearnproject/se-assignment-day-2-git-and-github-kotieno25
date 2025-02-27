@@ -4,13 +4,13 @@
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 
 Version control is a system that facilitates the monitoring of alterations to documents throughout time, simplifying the processes of management, collaboration, and restoring earlier variations when needed. The fundamental concepts of version control comprise: <br/>
-•	Repositories – A storage location where all files and their change history are maintained.
-•	Commits – A snapshot of alterations made to files at a given moment.
-•	Branches – Distinct lines of development that permit multiple versions of a project to be developed at the same time.
-•	Merging – Integrating changes from various branches.
-•	Pull and Push – Retrieving changes from a remote repository (pull) and transmitting local changes (push).
-•	Conflicts – Arises when modifications in different branches intersect, necessitating manual resolution.
-•	Staging Area – A zone where modifications are examined prior to committing them.
+•	Repositories – A storage location where all files and their change history are maintained.<br/>
+•	Commits – A snapshot of alterations made to files at a given moment.<br/>
+•	Branches – Distinct lines of development that permit multiple versions of a project to be developed at the same time.<br/>
+•	Merging – Integrating changes from various branches.<br/>
+•	Pull and Push – Retrieving changes from a remote repository (pull) and transmitting local changes (push).<br/>
+•	Conflicts – Arises when modifications in different branches intersect, necessitating manual resolution.<br/>
+•	Staging Area – A zone where modifications are examined prior to committing them.<br/>
 
 GitHub is a cloud-based service that enhances the version control functions of Git, making it highly utilized for software development. Factors contributing to its popularity include:
 •	Remote Collaboration – Enables numerous developers to collaborate on the same project from various locations.
